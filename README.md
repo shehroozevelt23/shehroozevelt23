@@ -1,5 +1,5 @@
 ### Hi there 👋
-Amaar is the best!
+Skilled in several programming languages and am constantly learning new ones. Experienced in Mobile Dev & Web Dev. Interested in BackEnd & FullStack Dev, Mobile App Dev, Web Dev, Machine Learning, Cyber Security. 
 
 <!--
 **shehroozevelt23/shehroozevelt23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
